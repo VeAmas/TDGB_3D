@@ -4,6 +4,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /.vs
+/dist
 /[Pp]rojectSettings/ProjectVersion.txt
 /Assets/AssetStoreTools*
 
